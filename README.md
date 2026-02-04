@@ -4,9 +4,9 @@ Linux Security Monitoring & Log Analysis Lab (VMware)
 
 Project Overview
 
-This project implements a controlled Linux-based cybersecurity lab using VMware to demonstrate centralized logging, security event detection, & log analysis, aligned with Department of Defense (DoD) Security Operations Center (SOC) workflows.
+This project implements a controlled Linux-based cybersecurity lab using VMware to demonstrate centralized logging, security event detection, & log analysis aligned with Department of Defense (DoD) Security Operations Center (SOC) workflows.
 
-The lab focuses on host-based monitoring and mirrors real-world SOC visibility, and detection processes used in government and contractor environments.
+The lab focuses on host-based monitoring and mirrors real-world SOC visibility and detection processes used in government and contractor environments.
 
 ⸻
 
