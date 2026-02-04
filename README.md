@@ -4,7 +4,7 @@ Linux Security Monitoring & Log Analysis Lab (VMware)
 
 Project Overview
 
-This project implements a controlled Linux-based cybersecurity lab using VMware to demonstrate centralized logging, security event detection, log analysis, and defensive hardening aligned with Department of Defense (DoD) Security Operations Center (SOC) workflows.
+This project implements a controlled Linux-based cybersecurity lab using VMware to demonstrate centralized logging, security event detection, & log analysis, aligned with Department of Defense (DoD) Security Operations Center (SOC) workflows.
 
 The lab focuses on host-based monitoring and mirrors real-world SOC visibility, detection, and response processes used in government and contractor environments.
 
@@ -52,7 +52,6 @@ Methodology
 	4.	Generate controlled security events (failed authentication attempts)
 	5.	Implement centralized logging using rsyslog
 	6.	Analyze logs for suspicious behavior
-	7.	Apply defensive hardening based on findings
 
 ⸻
 
@@ -70,17 +69,10 @@ Analysis Techniques
 
 ⸻
 
-Defensive Response
-	•	Installed and enabled Fail2Ban on the monitored system
-	•	Automatically blocked repeated authentication failures
-	•	Implemented defense-in-depth following detection
-
-⸻
 
 Outcome
 	•	Improved visibility into Linux authentication activity
-	•	Demonstrated end-to-end SOC workflow: detect → analyze → respond
-	•	Reduced attack surface through automated blocking
+	•	Demonstrated ability to detect → analyze 
 
 ⸻
 
@@ -88,5 +80,4 @@ Skills Demonstrated
 	•	Linux system administration
 	•	Centralized logging and monitoring
 	•	Security event detection and analysis
-	•	Incident response fundamentals
 	•	VMware-based lab design
