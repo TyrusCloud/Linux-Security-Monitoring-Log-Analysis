@@ -90,7 +90,7 @@ Repeated authentication failures are a key indicator of brute-force or unauthori
 
 ### Screenshot 6: Centralized Log Forwarding Configuration
 
-![Log Forwarding](images/moduleconf.png.png)
+![Log Forwarding](images/moduleconf.png)
 
 **What is shown:**  
 `rsyslog` configured to forward logs from the Target system to a centralized logging server (SOC.Server).
